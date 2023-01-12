@@ -1,0 +1,13 @@
+%%chocolate flavours
+
+@relation chocolate_flavours
+@attribute flavour{'chocolate','strawberry','mango','apple'}
+@attribute price numeric
+@attribute shop_name{'jan','feb','mar','api'}
+@attribute small_or_large{'small','large'}
+
+@data
+'chocolate',12,'jan','small'
+'strawberry',45,'feb','large'
+'mango',25,'mar','large'
+'apple',67,'api','small'
