@@ -1,0 +1,14 @@
+%% supermarket
+
+@relation supermarket
+@attribute name{'sun','bun','kim','ram'}
+@attribute price numeric
+@attribute colour{'red','blue','pink','yellow'}
+@attribute small_or_large{'small','large'}
+
+@data
+
+'sun',13,'red','small'
+'bun',14,'blue','small'
+'kim',35,'pink','small'
+'ram',24,'yellow','large'
